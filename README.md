@@ -1,0 +1,2 @@
+# studygit
+this is readme
